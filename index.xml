@@ -6,9 +6,29 @@
     <description>Recent content on Jiaheng Tang&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Tue, 25 Dec 2018 08:19:27 +0800</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hello World</title>
+      <link>/posts/hello-world/</link>
+      <pubDate>Tue, 25 Dec 2018 08:19:27 +0800</pubDate>
+      
+      <guid>/posts/hello-world/</guid>
+      <description>This is a test.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about-hugo/</link>
+      <pubDate>Tue, 25 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/about-hugo/</guid>
+      <description>Hi there!😬My name is Jiaheng Tang and I&amp;rsquo;m a master&amp;rsquo;s student in Electrical and Computer Engineering from UCSB. I like distributed systems, cloud computing, and a little bit of operating systems. Recently I stumbled across Hugo and decided to use it to write blogs, or at least that&amp;rsquo;s the plan for 2019.</description>
+    </item>
     
   </channel>
 </rss>
